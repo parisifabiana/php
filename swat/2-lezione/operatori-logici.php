@@ -15,4 +15,16 @@
     }
 
     echo "\n ciao";
+
+    $x = -5;
+
+    if($x > 0) {
+        echo "il numero è positivo";
+    } else {
+        echo "il numero non è positivo";
+    }
+
+    if(!($x > 0)) {
+        echo "il numero non è positivo";
+    }
 ?>
