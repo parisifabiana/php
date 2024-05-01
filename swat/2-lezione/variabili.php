@@ -31,4 +31,10 @@
 
     //data del giorno
     echo "Oggi è il " . date("d/m/y") . " e sono le ore " . date("h:i:s");
+
+    //operatori combinati
+
+    $a = 5;
+
+    $a += 10;
 ?>
